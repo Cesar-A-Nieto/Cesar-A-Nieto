@@ -3,7 +3,7 @@
 <!--
 **Cesar-A-Nieto/Cesar-A-Nieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-ABOUT ME:
+## ABOUT ME:
 
 A Data Analyst with a systems background, 
 and passionate about turning messy data into clear and actionable insights.
@@ -19,7 +19,7 @@ Originally from Perú, lived in Brazil, now based in Florida,
 fluent in English, Spanish, and Portuguese, 
 I love working in multicultural teams.
 
-WHAT I DO:
+## WHAT I DO:
 
 Data Analysis: SQL (joins, CTEs, window functions), Python (Pandas, NumPy), Excel, Google Sheets
 
